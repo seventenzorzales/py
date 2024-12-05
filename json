@@ -1,13 +1,13 @@
 [
     {
-      "run": "14141414-9",
-      "nombre": "Alumno",
-      "apellido": "POO",
-      "direccion": "Inacap",
+      "run": "21913353-7",
+      "nombre": "Oscar",
+      "apellido": "Muñoz",
+      "direccion": "Lliu lliu 1078",
       "fono": 14141414,
-      "correo":"correo@correo.cl",
-      "montoCredito": 505050,
-      "deuda":606060,
-      "tipo": 3
+      "correo":"oscarmunoz74@inacapmail.cl",
+      "montoCredito": 666777,
+      "deuda":999999,
+      "tipo": 1
     }
 ]
